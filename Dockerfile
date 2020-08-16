@@ -1,6 +1,6 @@
 
 FROM ubuntu:18.04
-
+MAINTAINER Voiplay <opensource@voiplay.net> (@voiplay)
 ENV DEBIAN_FRONTEND noninteractive
 
 # Install dependencies
